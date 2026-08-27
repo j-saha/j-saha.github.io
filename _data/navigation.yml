@@ -11,5 +11,8 @@ main:
   - title: "Work and Education"
     url: /work-and-education/
 
+  - title: "Services"
+    url: /services/
+
   - title: "Honors & Awards"
     url: /honors-awards/

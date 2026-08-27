@@ -19,3 +19,6 @@ News
 ======
 * **July 2026:** Attended the ACM International Conference on the Foundations of Software Engineering (FSE 2026).
 * **July 2026:** First-authored paper, "STADA: Specification-based Testing for Autonomous Driving Agents," was accepted to IROS 2026! [[arXiv]](https://arxiv.org/abs/2603.10940)
+* **August 2024:** Received the Provost's Fellowship from the University of Virginia.
+* **August 2024:** Started my Ph.D. in Computer Science at the University of Virginia, joining the [LESS Lab](https://less-lab-uva.github.io/) under [Professor Matthew B. Dwyer](https://engineering.virginia.edu/faculty/matthew-b-dwyer).
+* **July 2024:** Paper, "The Fault in our Stars: Quality Assessment of Code Generation Benchmarks," was accepted to SCAM 2024! [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/10795375)
