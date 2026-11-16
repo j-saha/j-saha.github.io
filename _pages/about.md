@@ -17,6 +17,9 @@ For additional information, please see my [CV]({{ base_path }}/files/cv.pdf).
 
 News
 ======
+* **October 2026:** First-authored paper, "NeuroSTAR: Neuro-symbolic Temporal Specification Formalization using Automata," was accepted to the ICSE 2027 research track! [[arXiv]](https://arxiv.org/abs/2609.03161)
+* **October 2026:** Selected to serve on the [Junior Program Committee of MSR 2027](https://2027.msrconf.org/track/msr-2027-junior-pc), the International Conference on Mining Software Repositories.
+* **October 2026:** Presented the STADA poster at the UVA Computer Science Research Symposium 2026 and won two awards: **Best Poster – Faculty Choice** and **Best Poster – Audience Choice (2nd Place)**! [[News]](https://engineering.virginia.edu/department/computer-science/blogs/cs-research-symposium-2026-showcases-student-innovation-and-research-excellence)
 * **July 2026:** Attended the ACM International Conference on the Foundations of Software Engineering (FSE 2026).
 * **July 2026:** First-authored paper, "STADA: Specification-based Testing for Autonomous Driving Agents," was accepted to IROS 2026! [[arXiv]](https://arxiv.org/abs/2603.10940)
 * **August 2024:** Received the Provost's Fellowship from the University of Virginia.
